@@ -27,7 +27,7 @@
 [metadata.scalingo]
   root-package = "github.com/Wraken/testDisruptiveCaptor"
   go-version = "go1.10.0"
-  install = [ "./..." ]
+  install = [ "." ]
 
 [prune]
   go-tests = true
